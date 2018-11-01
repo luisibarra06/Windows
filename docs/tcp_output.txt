@@ -1,0 +1,57 @@
+[System Process]	0	TCP	desktop-g7djrlc.localdomain	52302	40.69.221.239	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-g7djrlc.localdomain	52304	52.169.83.3	https	TIME_WAIT										
+lsass.exe	608	TCP	DESKTOP-G7DJRLC	49677	DESKTOP-G7DJRLC	0	LISTENING										
+lsass.exe	608	TCPV6	desktop-g7djrlc	49677	desktop-g7djrlc	0	LISTENING										
+SearchUI.exe	3396	TCP	desktop-g7djrlc.localdomain	52318	204.79.197.220	https	CLOSE_WAIT			1	31						
+SearchUI.exe	3396	TCP	desktop-g7djrlc.localdomain	52319	204.79.197.220	https	CLOSE_WAIT			1	31						
+SearchUI.exe	3396	TCP	desktop-g7djrlc.localdomain	52320	204.79.197.220	https	CLOSE_WAIT			1	31						
+SearchUI.exe	3396	TCP	desktop-g7djrlc.localdomain	52322	13.107.56.254	https	ESTABLISHED										
+SearchUI.exe	3396	TCP	desktop-g7djrlc.localdomain	52323	a23-35-176-98.deploy.static.akamaitechnologies.com	https	CLOSE_WAIT			1	31						
+SearchUI.exe	3396	TCP	desktop-g7djrlc.localdomain	52324	13.107.6.254	https	ESTABLISHED										
+SearchUI.exe	3396	TCP	desktop-g7djrlc.localdomain	52325	204.79.197.222	https	ESTABLISHED										
+services.exe	536	TCP	DESKTOP-G7DJRLC	49669	DESKTOP-G7DJRLC	0	LISTENING										
+services.exe	536	TCPV6	desktop-g7djrlc	49669	desktop-g7djrlc	0	LISTENING										
+spoolsv.exe	1980	TCP	DESKTOP-G7DJRLC	49667	DESKTOP-G7DJRLC	0	LISTENING										
+spoolsv.exe	1980	TCPV6	desktop-g7djrlc	49667	desktop-g7djrlc	0	LISTENING										
+svchost.exe	844	TCP	DESKTOP-G7DJRLC	epmap	DESKTOP-G7DJRLC	0	LISTENING										
+svchost.exe	3196	TCP	desktop-g7djrlc.localdomain	5040	DESKTOP-G7DJRLC	0	LISTENING										
+svchost.exe	524	TCP	DESKTOP-G7DJRLC	49665	DESKTOP-G7DJRLC	0	LISTENING										
+svchost.exe	1384	TCP	DESKTOP-G7DJRLC	49666	DESKTOP-G7DJRLC	0	LISTENING										
+svchost.exe	3284	TCP	desktop-g7djrlc.localdomain	51518	lo-130-2ldrlc2.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	3284	TCP	desktop-g7djrlc.localdomain	51554	hi-bilc-bl4qlc2.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	3284	TCP	desktop-g7djrlc.localdomain	51562	vi-08-3cz0j12.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	2492	TCP	desktop-g7djrlc.localdomain	51877	13.89.217.116	https	ESTABLISHED										
+svchost.exe	3284	TCP	desktop-g7djrlc.localdomain	51968	tt-p203-h8zxm02.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	3284	TCP	desktop-g7djrlc.localdomain	52239	ad-it-cyx8m12.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	3284	TCP	DESKTOP-G7DJRLC	ms-do	DESKTOP-G7DJRLC	0	LISTENING										
+svchost.exe	6260	UDP	DESKTOP-G7DJRLC	ntp	*	*											
+svchost.exe	604	UDP	DESKTOP-G7DJRLC	ssdp	*	*				6	822						
+svchost.exe	604	UDP	desktop-g7djrlc.localdomain	ssdp	*	*											
+svchost.exe	3196	UDP	DESKTOP-G7DJRLC	5050	*	*											
+svchost.exe	1740	UDP	DESKTOP-G7DJRLC	5353	*	*											
+svchost.exe	1740	UDP	DESKTOP-G7DJRLC	llmnr	*	*											
+svchost.exe	604	UDP	desktop-g7djrlc.localdomain	53412	*	*											
+svchost.exe	604	UDP	DESKTOP-G7DJRLC	53413	*	*		6	822								
+svchost.exe	2636	UDP	DESKTOP-G7DJRLC	60555	*	*											
+svchost.exe	844	TCPV6	desktop-g7djrlc	epmap	desktop-g7djrlc	0	LISTENING										
+svchost.exe	3284	TCPV6	desktop-g7djrlc	ms-do	desktop-g7djrlc	0	LISTENING										
+svchost.exe	524	TCPV6	desktop-g7djrlc	49665	desktop-g7djrlc	0	LISTENING										
+svchost.exe	1384	TCPV6	desktop-g7djrlc	49666	desktop-g7djrlc	0	LISTENING										
+svchost.exe	6260	UDPV6	desktop-g7djrlc	123	*	*											
+svchost.exe	604	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	604	UDPV6	[fe80:0:0:0:c5c0:bb04:a15f:c4d7]	1900	*	*											
+svchost.exe	1740	UDPV6	desktop-g7djrlc	5353	*	*											
+svchost.exe	1740	UDPV6	desktop-g7djrlc	5355	*	*											
+svchost.exe	604	UDPV6	[fe80:0:0:0:c5c0:bb04:a15f:c4d7]	53410	*	*											
+svchost.exe	604	UDPV6	[0:0:0:0:0:0:0:1]	53411	*	*											
+svchost.exe	3284	TCP	desktop-g7djrlc.localdomain	52334	eg-cow2-3p49682.ksd.edu	ms-do	SYN_SENT										
+svchost.exe	3284	TCP	desktop-g7djrlc.localdomain	52335	tt-cow2-ggmwvj2.ksd.edu	ms-do	SYN_SENT										
+svchost.exe	3284	TCP	desktop-g7djrlc.localdomain	52336	172.16.61.130	ms-do	SYN_SENT										
+svchost.exe	1740	UDP	DESKTOP-G7DJRLC	57701	*	*											
+System	4	TCP	desktop-g7djrlc.localdomain	netbios-ssn	DESKTOP-G7DJRLC	0	LISTENING										
+System	4	TCP	DESKTOP-G7DJRLC	microsoft-ds	DESKTOP-G7DJRLC	0	LISTENING										
+System	4	UDP	desktop-g7djrlc.localdomain	netbios-ns	*	*		3	204								
+System	4	UDP	desktop-g7djrlc.localdomain	netbios-dgm	*	*											
+System	4	TCPV6	desktop-g7djrlc	microsoft-ds	desktop-g7djrlc	0	LISTENING										
+wininit.exe	460	TCP	DESKTOP-G7DJRLC	49664	DESKTOP-G7DJRLC	0	LISTENING										
+wininit.exe	460	TCPV6	desktop-g7djrlc	49664	desktop-g7djrlc	0	LISTENING										
